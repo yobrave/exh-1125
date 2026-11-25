@@ -1,0 +1,1 @@
+It was done at 11:58. Then a polish pass turned your one-pager into a pitch deck, and reverting failed — the rollback branch now insists it is the main branch.
